@@ -31,6 +31,7 @@ This dataset is about pga golf statistics from 2015.
 
 ### Scatterplot
 I used a scatterplot to show a correlation between driving distance and scoring.
+
 ![scatterplot](https://user-images.githubusercontent.com/38682883/90438550-6f1bc180-e0d4-11ea-88dc-520532744dc9.JPG)
 
 ### Regression
@@ -49,3 +50,10 @@ You can't be Belgian and Portuguese at the same time
 When something can be 2 or more things at the same time.
 It is possible to be male and or be above 195cm
 ![notex](https://user-images.githubusercontent.com/38682883/90439175-67a8e800-e0d5-11ea-8ed3-41374bcf4c92.JPG)
+
+##Normal distribution
+Next I used the normal distribution of data to calculate the probability of something happening.
+Here i used the average driving distances of pga pro players to calculate the probability of them driving the ball between 295 and 310 yards.
+![drivdist](https://user-images.githubusercontent.com/38682883/90439528-00d7fe80-e0d6-11ea-9ddf-ce5f7bd1e08c.JPG)
+![graf](https://user-images.githubusercontent.com/38682883/90439532-01709500-e0d6-11ea-9c7d-4e07a852bf29.JPG)
+![Kans](https://user-images.githubusercontent.com/38682883/90439534-02a1c200-e0d6-11ea-942d-578c7079b4b5.JPG)
