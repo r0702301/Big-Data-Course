@@ -22,6 +22,7 @@ First I calculated the mean, median and mode of the age of all basketball player
 ### Dispersion
 Then i calculated the range, interquartile range and standard deviation
 ![dispersion](https://user-images.githubusercontent.com/38682883/90437967-8c03c500-e0d3-11ea-9356-0e39f9231174.JPG)
+
 ![box](https://user-images.githubusercontent.com/38682883/90438039-b190ce80-e0d3-11ea-9f72-2f2af1df15ed.JPG)
 
 ### New data
